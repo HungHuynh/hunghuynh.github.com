@@ -1,6 +1,6 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "username.github.io" # the base hostname & protocol for your site.
-title: "username-blog"
+url: "hunghuynh.github.io" # the base hostname & protocol for your site.
+title: "hunghuynh'sblog"
 
 
 paginate: 3 #articles per page
@@ -8,17 +8,17 @@ paginate_path: /blog/page:num #makes pagination working
 
 
 #contacts
-git: "https://github.com/railsr"  #Add your github url here.
+git: "https://github.com/hunghuynh"  #Add your github url here.
 stackoverflow: "http://stackoverflow.com/users/1231365/railsr" #Add your stackoverflow url here.
-twitter: "https://twitter.com/railsr7"  #Add your twitter url here.
+twitter: "https://twitter.com/hunghuynh2210"  #Add your twitter url here.
 
 #disqus comment
 disqus:
-    shortname: "test" #replace with your disqus comment short name
+    shortname: "hunghuynh" #replace with your disqus comment short name
 
 #google analytics
 google:
-    tracking-id: "" #paste your tracking id here
+    tracking-id: "UA-37628868-1" #paste your tracking id here
 gems:
   - jekyll-sitemap
 
