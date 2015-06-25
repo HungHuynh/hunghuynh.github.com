@@ -1,4 +1,6 @@
 ---
+title: "Hello blog"
 tags: blog
 ---
-{% Hello Blog %}
+
+### I will write blog daily :)
