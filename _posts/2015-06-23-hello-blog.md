@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Hello blog
 layout: post
 tags: [blog]
