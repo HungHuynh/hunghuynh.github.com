@@ -5,13 +5,22 @@ layout: post
 tags: [clojure]
 ---
 
-### Clojure
-
-
-
 ### Lein
 
+Create app with lein
+```
+lein new app todo-app
+```
 
+run test with lein 
+```
+lein test
+```
 
+```
+lein repl
+```
 
-
+```
+lein run
+```
