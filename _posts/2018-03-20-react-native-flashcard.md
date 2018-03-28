@@ -21,7 +21,9 @@ react-native run-(ios|android)
 ```
 
 ### ReactNavigation
-
+```
+npm install react-navigation
+```
 #### StackNavigation
 
 #### Modal
